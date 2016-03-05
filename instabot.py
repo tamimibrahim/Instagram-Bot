@@ -23,7 +23,7 @@ class InstaBot:
     log_mod = 0 - Log mod: log_mod = 0 log to console, log_mod = 1 log to file,
     log_mod = 2 no log.
 
-    https://github.com/LevPasha/instabot.py
+    
     """
 
     url = 'https://www.instagram.com/'
